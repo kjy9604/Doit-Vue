@@ -1,2 +1,2 @@
 # Doit-Vue
-Learning about Vue.js
+Learning about Do it! Vue.js@2.5 / 2018 - 2020
